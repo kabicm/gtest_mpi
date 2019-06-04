@@ -66,7 +66,7 @@
 
 #ifndef GUARD_GTEST_MPI_HPP
 #define GUARD_GTEST_MPI_HPP
-#include <gtest/gtest.h>
+#include "../gtest.h"
 #include <mpi.h>
 #include <unistd.h>
 #include <set>
