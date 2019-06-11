@@ -69,6 +69,7 @@
 #include "../gtest.h"
 #include <mpi.h>
 #include <unistd.h>
+#include <cstdarg>
 #include <string>
 
 namespace gtest_mpi {
